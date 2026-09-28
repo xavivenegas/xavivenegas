@@ -12,4 +12,4 @@ Aspiring **cybersecurity analyst**.
 Windows Server · Linux · Samba · Networking (Cisco) · Virtualization (VirtualBox)
 
 ### 📫 Contact
-[LinkedIn](https://linkedin.com/in/tu-perfil)
+[LinkedIn](https://www.linkedin.com/in/xavier-venegas-cadillo-20195038b/)
